@@ -8,12 +8,13 @@
 
 ## 题解分类
 ### 堆栈
-[20.Valid-Parentheses](./ProblemsSolved/20.Valid-Parentheses.md)
+- [20.Valid-Parentheses](./ProblemsSolved/20.Valid-Parentheses.md)
+- [150.Evaluate Reverse Polish Notation](./ProblemsSolved/150.Evaluate-Reverse-Polish-Notation.md)
+
 
 ## 待完成
 思路总结：
 - [739.Daily Temperatures](./ProblemsSolved/739.Daily-Temperatures.md)
-- [150.Evaluate Reverse Polish Notation](./ProblemsSolved/150.Evaluate-Reverse-Polish-Notation.md)
 
 代码编写：
 
