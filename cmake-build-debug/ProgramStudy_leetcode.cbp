@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/150.Evaluate Reverse Polish Notation.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/main.cpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
