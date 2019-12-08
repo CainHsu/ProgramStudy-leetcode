@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/codeProjects/ProgramStudy-leetcode/ListNode.hpp
+iostream
+D:/codeProjects/ProgramStudy-leetcode/iostream
+stack
+D:/codeProjects/ProgramStudy-leetcode/stack
+math.h
+D:/codeProjects/ProgramStudy-leetcode/math.h
+
+D:/codeProjects/ProgramStudy-leetcode/main.cpp
+iostream
+-
+ListNode.hpp
+D:/codeProjects/ProgramStudy-leetcode/ListNode.hpp
+vector
+D:/codeProjects/ProgramStudy-leetcode/vector
+cmath
+D:/codeProjects/ProgramStudy-leetcode/cmath
+algorithm
+D:/codeProjects/ProgramStudy-leetcode/algorithm
+stack.hpp
+D:/codeProjects/ProgramStudy-leetcode/stack.hpp
+stack
+D:/codeProjects/ProgramStudy-leetcode/stack
+string
+D:/codeProjects/ProgramStudy-leetcode/string
+
+D:/codeProjects/ProgramStudy-leetcode/stack.hpp
+string
+D:/codeProjects/ProgramStudy-leetcode/string
+stack
+D:/codeProjects/ProgramStudy-leetcode/stack
+
