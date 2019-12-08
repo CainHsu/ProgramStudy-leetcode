@@ -7,10 +7,17 @@
 按计划，我会每日更新一个题解
 
 ## 题解分类
-### 堆栈
+
+### 数据结构分类
+
+#### 堆栈
+
 - [20.Valid-Parentheses](./ProblemsSolved/20.Valid-Parentheses.md)
 - [150.Evaluate Reverse Polish Notation](./ProblemsSolved/150.Evaluate-Reverse-Polish-Notation.md)
 
+### 算法分类
+
+#### BFS(广度优先搜索)
 
 ## 待完成
 思路总结：
