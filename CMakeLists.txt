@@ -3,4 +3,5 @@ project(ProgramStudy_leetcode)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(ProgramStudy_leetcode main.cpp "leetCode/150.Evaluate Reverse Polish Notation.hpp")
+add_executable(ProgramStudy_leetcode main.cpp
+        "leetCode/150.Evaluate Reverse Polish Notation.hpp" TreeNode.hpp "leetCode/739.Daily Temperatures.hpp" "leetCode/102.Binary Tree Level Order Traversal.hpp")

@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="" />
+    <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +69,13 @@
       <workItem from="1575780744034" duration="5575000" />
       <workItem from="1575787759617" duration="3837000" />
       <workItem from="1575794550214" duration="8596000" />
-      <workItem from="1575816886375" duration="4996000" />
+      <workItem from="1575816886375" duration="5505000" />
+      <workItem from="1575867859637" duration="640000" />
+      <workItem from="1575869461018" duration="18000" />
+      <workItem from="1575877033537" duration="2196000" />
+      <workItem from="1575972752973" duration="165000" />
+      <workItem from="1575979952830" duration="529000" />
+      <workItem from="1576028293214" duration="3549000" />
     </task>
     <servers />
   </component>

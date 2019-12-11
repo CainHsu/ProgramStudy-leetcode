@@ -82,7 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/TreeNode.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/102.Binary Tree Level Order Traversal.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/150.Evaluate Reverse Polish Notation.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/739.Daily Temperatures.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/main.cpp">
