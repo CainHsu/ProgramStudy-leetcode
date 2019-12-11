@@ -41,4 +41,20 @@ vector<vector<int>> levelOrder(TreeNode* root) {
 }
 
 
+vector<vector<int>> res;
+void goDeeper(TreeNode* root, int depth){
+    if(root){
+        if(res.size() <= depth) res.emplace_back();
+        res[depth].emplace_back(root->val);
+    }
+    else return;
+    if(root->left) goDeeper(root->left, depth+1);
+    if(root->right) goDeeper(root->right, depth+1);
+}
+vector<vector<int>> levelOrderRecur(TreeNode* root){
+    goDeeper(root, 0);
+    return res;
+}
+
+
 #endif //PROGRAMSTUDY_LEETCODE_102_BINARY_TREE_LEVEL_ORDER_TRAVERSAL_HPP

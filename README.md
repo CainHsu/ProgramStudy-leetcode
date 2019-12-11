@@ -6,6 +6,8 @@
 
 按计划，我会每日更新一个题解
 
+所有的C++程序所用版本均为C++11
+
 ## 题解分类
 
 ### 数据结构分类
@@ -24,13 +26,13 @@
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 
 #### 递归
+- [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 
 #### 迭代
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 
 ## 待完成
 思路总结：
-- [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 
 介绍性内容：
 - [stack](./Data-Structure/stack.md)

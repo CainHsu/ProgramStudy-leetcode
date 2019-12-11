@@ -49,7 +49,6 @@ void goDeeper(TreeNode* root, int depth){
 }
 std::vector<std::vector<int>> levelOrderBottom(TreeNode* root) {
     goDeeper(root, 0);
-    reverse(res.begin(), res.end());
     return res;
 }
 

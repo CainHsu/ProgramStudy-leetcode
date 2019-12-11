@@ -15,6 +15,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProblemsSolved/102.Binary-Tree-Order-Traversal.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemsSolved/102.Binary-Tree-Order-Traversal.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/TreeNode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/102.Binary Tree Level Order Traversal.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/102.Binary Tree Level Order Traversal.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +81,7 @@
       <workItem from="1575972752973" duration="165000" />
       <workItem from="1575979952830" duration="529000" />
       <workItem from="1576028293214" duration="4045000" />
-      <workItem from="1576042160444" duration="3830000" />
+      <workItem from="1576042160444" duration="8288000" />
     </task>
     <servers />
   </component>

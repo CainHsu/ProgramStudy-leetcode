@@ -21,11 +21,12 @@ inline T swap(T a)
 
 int main(int argc, char **argv) {
 
-    std::string temp = "})";
-    std::cout << isValid(temp) << std::endl;
-
-    std::cout << sin(90 * PI / 180);
-
+    std::vector<std::vector<int>> temp;
+    temp.emplace_back();
+    temp.emplace_back();
+    temp[1].emplace_back(2333);
+    std::cout << temp[1].size() << std::endl;
+    std::cout << temp[1][0] << std::endl;
     return 0;
 }
 
