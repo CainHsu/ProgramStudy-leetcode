@@ -32,12 +32,12 @@
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 - [107.Binary Tree Level Order Traversal II](./ProblemsSolved/107.Binary-Tree-Level-Order-Traversal-II.md)
 
-#### 递归
+#### 递归 recursion
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 - [107.Binary Tree Level Order Traversal II](./ProblemsSolved/107.Binary-Tree-Level-Order-Traversal-II.md)
 
 
-#### 迭代
+#### 迭代 iteration
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 
 ## 待完成
