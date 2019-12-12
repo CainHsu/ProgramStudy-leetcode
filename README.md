@@ -42,6 +42,7 @@
 
 ## 待完成
 思路总结：
+- [111.Minimum Depth of Binary Tree](./ProblemsSolved/111.Minimum-Depth-of-Binary-Tree.md)
 
 介绍性内容：
 - [stack](./Data-Structure/stack.md)
