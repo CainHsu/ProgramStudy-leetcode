@@ -85,6 +85,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/TreeNode.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/101.Symmetric Tree.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/102.Binary Tree Level Order Traversal.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>

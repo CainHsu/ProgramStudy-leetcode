@@ -8,6 +8,7 @@
 
 #include "vector"
 #include "queue"
+#include "stack"
 
 
 struct TreeNode{
@@ -177,20 +178,14 @@ bool isSameTree(TreeNode* p, TreeNode* q) {
 }
 
 
-bool isSym(std::vector<int> &vec){
 
+bool ifSym(TreeNode* r1, TreeNode* r2){
+    if(!r1 && !r2) return true;
+    if(!r1 || !r2) return false;
+    return (r1->val == r2->val) && ifSym(r1->left, r2->right) && ifSym(r1->right, r2->left);
 }
 bool isSymmetric(TreeNode* root) {
-    std::queue<TreeNode*> Q;
-    std::vector<int> temp;
-    TreeNode* p;
-    Q.push(root);
-    while(!Q.empty()){
-        int size = Q.size();
-        for(int i = 0; i < size; ++i){
-
-        }
-    }
+    return ifSym(root, root);
 }
 
 int minDepth(TreeNode* root) {
