@@ -5,3 +5,5 @@ CMakeFiles\ProgramStudy_leetcode.dir\main.cpp.obj: ..\ListNode.hpp
 CMakeFiles\ProgramStudy_leetcode.dir\main.cpp.obj: ..\main.cpp
 CMakeFiles\ProgramStudy_leetcode.dir\main.cpp.obj: ..\stack.hpp
 
+CMakeFiles\ProgramStudy_leetcode.dir\main2.cpp.obj: ..\main2.cpp
+
