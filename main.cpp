@@ -6,6 +6,7 @@
 #include "stack.hpp"
 #include "stack"
 #include "string"
+#include "person.hpp"
 
 #define PI 3.1415926
 
@@ -22,6 +23,8 @@ inline T swap(T a)
     return a*a;
 }
 
+class person;
+
 int main(int argc, char **argv) {
 
     std::vector<std::vector<int>> temp;
@@ -35,10 +38,11 @@ int main(int argc, char **argv) {
     update(0.2);
     std::cout << "After update:" << externTest << std::endl;
 
-    int value = 0, sum = 0;
-    while(std::cin >> value)
-        sum += value;
-    std::cout << sum;
+    {
+        person xc("xc");
+        xc.show_name();
+        std::cout << std::endl;
+    }
 
     return 0;
 }
