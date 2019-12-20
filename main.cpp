@@ -23,8 +23,13 @@ inline T swap(T a)
     return a*a;
 }
 
-void test(std::vector<int> vec){
+void test(std::vector<int> & vec){
     vec[0] = 0;
+}
+
+int & add(int a, int b, int &re){
+    re = a + b;
+    return re;
 }
 
 class person;
@@ -52,6 +57,11 @@ int main(int argc, char **argv) {
     tempVec.emplace_back(1);
     test(tempVec);
     std::cout << tempVec.back();
+
+    int a = 2, b = 3, c;
+    add(a, b, c)+=2;
+    cout << endl << c;
+
     return 0;
 }
 
