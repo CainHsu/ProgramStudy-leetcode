@@ -5,7 +5,7 @@
       <config projectName="ProgramStudy_leetcode" targetName="ProgramStudy_leetcode" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
@@ -13,11 +13,26 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++学习/待整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/待整理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/DataStructure/ListNode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/DataStructure/Node.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/DataStructure/TreeNode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/else.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/else.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/DataStructure/hash.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathProblems.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/mathProblems.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/DataStructure/matrix.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/person.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/DataStructure/stack.hpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +55,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode\DataStructure" />
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,7 +106,7 @@
       <workItem from="1576115844368" duration="6166000" />
       <workItem from="1576128685365" duration="358000" />
       <workItem from="1576487787096" duration="11026000" />
-      <workItem from="1576644941703" duration="27118000" />
+      <workItem from="1576644941703" duration="35425000" />
     </task>
     <servers />
   </component>

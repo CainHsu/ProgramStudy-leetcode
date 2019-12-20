@@ -82,7 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/TreeNode.hpp">
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/Algorithm/BFS.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/DataStructure/TreeNode.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/mathProblems.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/person.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/101.Symmetric Tree.hpp">
@@ -100,6 +109,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/150.Evaluate Reverse Polish Notation.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/200.Number of Islands.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/739.Daily Temperatures.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
@@ -107,9 +119,6 @@
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/main2.cpp">
-			<Option target="ProgramStudy_leetcode"/>
-		</Unit>
-		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/person.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/CMakeLists.txt">

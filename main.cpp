@@ -1,12 +1,12 @@
 #include <iostream>
-#include "ListNode.hpp"
+#include "SourceCode/DataStructure/ListNode.hpp"
 #include "vector"
 #include "cmath"
 #include "algorithm"
-#include "stack.hpp"
+#include "SourceCode/DataStructure/stack.hpp"
 #include "stack"
 #include "string"
-#include "person.hpp"
+#include "SourceCode/person.hpp"
 
 #define PI 3.1415926
 
@@ -21,6 +21,10 @@ template<class T>
 inline T swap(T a)
 {
     return a*a;
+}
+
+void test(std::vector<int> vec){
+    vec[0] = 0;
 }
 
 class person;
@@ -44,6 +48,10 @@ int main(int argc, char **argv) {
         std::cout << std::endl;
     }
 
+    std::vector<int> tempVec;
+    tempVec.emplace_back(1);
+    test(tempVec);
+    std::cout << tempVec.back();
     return 0;
 }
 
