@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/Algorithm/BFS.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/Algorithm/BFS.hpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
@@ -86,7 +88,11 @@
       <workItem from="1576115844368" duration="6166000" />
       <workItem from="1576128685365" duration="358000" />
       <workItem from="1576487787096" duration="11026000" />
-      <workItem from="1576644941703" duration="45772000" />
+      <workItem from="1576644941703" duration="52055000" />
+      <workItem from="1577019644651" duration="2607000" />
+      <workItem from="1577068270114" duration="2106000" />
+      <workItem from="1577149802642" duration="57000" />
+      <workItem from="1577149894902" duration="2279000" />
     </task>
     <servers />
   </component>

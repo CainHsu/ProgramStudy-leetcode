@@ -7,6 +7,8 @@
 
 #include <vector>
 #include "queue"
+#include "string"
+#include "unordered_set"
 
 using std::vector;
 using std::queue;
@@ -17,9 +19,9 @@ int numIslandsBFS(vector<vector<char>>& grid) {
         return 0;
     unsigned int row = grid.size();
     unsigned int col = grid[0].size();
-    unsigned int num_island = 0;
-    for(int i = 0; i < row; ++i){
-        for(int j = 0; j <  col; ++j){
+    int num_island = 0;
+    for(unsigned int i = 0; i < row; ++i){
+        for(unsigned int j = 0; j <  col; ++j){
             if(grid[i][j] == '1'){
                 ++num_island;
                 queue<pair<int, int>> Q;
@@ -50,6 +52,45 @@ int numIslandsBFS(vector<vector<char>>& grid) {
         }
     }
     return num_island;
+}
+
+
+using std::vector;
+using std::string;
+using std::unordered_set;
+
+int openLock(vector<string>& deadends, string target) {
+    if(target == "0000") return 0;
+    unordered_set<string> deads(deadends.begin(), deadends.end());
+    queue<string > Q;
+    unordered_set<string> visited;
+    Q.push("0000");
+    int depth = 0;
+    while(!Q.empty()){
+        string cur = Q.front();
+        Q.pop();
+        int size = Q.size();
+        for(int cir = 0; cir < size; ++cir) {
+            ++depth;
+            for (int i = 0; i < 4; ++i) {
+                string temp = cur;
+                temp[i] = (temp[i] + 1) % 10;
+                if (deads.find(temp) != deads.end() && visited.find(temp) != visited.end()) {
+                    if (temp == target) return depth;
+                    Q.push(temp);
+                    visited.insert(temp);
+                }
+                temp = cur;
+                temp[i] = (temp[i] - 1) % 10;
+                if (deads.find(temp) != deads.end() && visited.find(temp) != visited.end()) {
+                    if (temp == target) return depth;
+                    Q.push(temp);
+                    visited.insert(temp);
+                }
+            }
+        }
+    }
+    return -1;
 }
 
 #endif //PROGRAMSTUDY_LEETCODE_BFS_HPP
