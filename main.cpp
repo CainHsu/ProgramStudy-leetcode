@@ -62,6 +62,15 @@ int main(int argc, char **argv) {
     add(a, b, c)+=2;
     cout << endl << c;
 
+    person test("toolMan");
+    test =  6 + test;
+    test.show_all();
+    test = 20 - test;
+    test.show_all();
+    (-test).show_all();
+    person & man = test;
+    man.nikname;
+
     return 0;
 }
 

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ProgramStudy_leetcode.dir/SourceCode/_person.cpp.obj"
   "CMakeFiles/ProgramStudy_leetcode.dir/main.cpp.obj"
   "CMakeFiles/ProgramStudy_leetcode.dir/main2.cpp.obj"
   "ProgramStudy_leetcode.exe"
