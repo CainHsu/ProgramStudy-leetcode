@@ -71,6 +71,9 @@ int main(int argc, char **argv) {
     person & man = test;
     man.nikname;
 
+    person L;
+    L = 5;
+    cout << (3 & 1);
     return 0;
 }
 

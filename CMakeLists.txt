@@ -12,4 +12,4 @@ add_executable(ProgramStudy_leetcode main.cpp
         "leetCode/111.Minimum Depth of Binary Tree.hpp"
         "leetCode/101.Symmetric Tree.hpp"
         main2.cpp SourceCode/person.hpp
-        "SourceCode/mathProblems.hpp" SourceCode/Algorithm/BFS.hpp "leetCode/200.Number of Islands.hpp" SourceCode/_person.cpp)
+        "SourceCode/mathProblems.hpp" SourceCode/Algorithm/BFS.hpp "leetCode/200.Number of Islands.hpp" SourceCode/_person.cpp "leetCode/103.Binary Tree Zigzag Level Order Traversal.hpp")

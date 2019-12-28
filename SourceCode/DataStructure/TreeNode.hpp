@@ -6,6 +6,7 @@
 #define TEST_TREENODE_HPP
 
 
+#include <iostream>
 #include "vector"
 #include "queue"
 #include "stack"
@@ -207,6 +208,29 @@ int minDepth(TreeNode* root) {
         ++depth;
     }
     return depth;
+}
+
+std::vector<std::vector<int>> zigzagLevelOrder(TreeNode* root) {
+    std::vector<std::vector<int>> ans;
+    if(!root) return ans;
+    std::queue<TreeNode*> Q;
+    Q.push(root);
+    int row = 0;
+    while(!Q.empty()){
+        std::vector<int> temp;
+        int depth = Q.size();
+        for(int i = 0; i < depth; ++i){
+            TreeNode* p = Q.front();
+            temp.emplace_back(p->val);
+            Q.pop();
+            if(p->left) Q.push(p->left);
+            if(p->right) Q.push(p->right);
+        }
+        if(row & 1) reverse(temp.begin(), temp.end());
+        ++row;
+        ans.emplace_back(temp);
+    }
+    return ans;
 }
 
 #endif //TEST_TREENODE_HPP

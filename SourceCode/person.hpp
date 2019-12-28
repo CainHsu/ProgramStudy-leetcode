@@ -10,11 +10,11 @@
 
  class person{
 private:
-    std::string name;
+     std::string name;
     int age;
     double height;
 public:
-    string nikname;
+    std::string nikname;
     person(){
         name = "Not initialized";
         age = -1;
@@ -24,6 +24,9 @@ public:
         name = _name;
         age = -1;
         height = 0.0;
+    }
+    person(int num){
+        age = num;
     }
     void show_name(){
         std::cout << name;
@@ -42,6 +45,6 @@ public:
     person operator-(double year);
     person operator-();
     friend  person operator-(double year, person & man);
-};
+ };
 
 #endif //PROGRAMSTUDY_LEETCODE_PERSON_HPP
