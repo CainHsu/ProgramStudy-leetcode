@@ -233,4 +233,57 @@ std::vector<std::vector<int>> zigzagLevelOrder(TreeNode* root) {
     return ans;
 }
 
+using std::string;
+using std::vector;
+using std::queue;
+bool isNext(string word, string curWord){
+    int notMatch = 0;
+    for(int i = 0; i < word.size(); ++i){
+        if(word[i] != curWord[i]) ++notMatch;
+    }
+    return (notMatch == 1);
+}
+int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+    queue<string> Q;
+    Q.push(beginWord);
+    int ans = 2;
+    while(!Q.empty()){
+        int depth = Q.size();
+        for(int i = 0; i < depth; ++i) {
+            for (auto word:wordList) {
+                string curWord = Q.front();
+                Q.pop();
+                if(word == endWord) return ans;
+                if (isNext(word, curWord)) Q.push(word);
+            }
+        }
+        ++ans;
+    }
+}
+
+vector<int> rightSideView(TreeNode* root) {
+    std::vector<int> res;
+    if(!root)
+        return res;
+    std::queue<TreeNode*> Q;
+    TreeNode* p;
+    Q.push(root);
+
+    while(!Q.empty()){
+        std::vector<int> temp;
+        int width = Q.size();
+        for(int i = 0; i < width; i++){
+            p = Q.front();
+            temp.push_back(p->val);
+            Q.pop();
+            if(p->left)
+                Q.push(p->left);
+            if(p->right)
+                Q.push(p->right);
+        }
+        res.push_back(temp.back());
+    }
+    return res;
+}
+
 #endif //TEST_TREENODE_HPP
