@@ -25,4 +25,8 @@ int majorityElement(std::vector<int>& nums) {
     return 0;
 }
 
+int oddCells(int n, int m, std::vector<std::vector<int>>& indices) {
+
+}
+
 #endif //TEST_ELSE_HPP

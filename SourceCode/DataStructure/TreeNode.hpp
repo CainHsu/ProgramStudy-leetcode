@@ -10,7 +10,12 @@
 #include "vector"
 #include "queue"
 #include "stack"
+#include "stack"
 
+using std::string;
+using std::vector;
+using std::queue;
+using std::stack;
 
 struct TreeNode{
     int val;
@@ -233,9 +238,7 @@ std::vector<std::vector<int>> zigzagLevelOrder(TreeNode* root) {
     return ans;
 }
 
-using std::string;
-using std::vector;
-using std::queue;
+
 bool isNext(string word, string curWord){
     int notMatch = 0;
     for(int i = 0; i < word.size(); ++i){
@@ -285,5 +288,36 @@ vector<int> rightSideView(TreeNode* root) {
     }
     return res;
 }
+
+static vector<int> pTAns;
+void toGoDeeper(TreeNode* root){
+    pTAns.emplace_back(root->val);
+    if(root->left) toGoDeeper(root->left);
+    if(root->right) toGoDeeper(root->right);
+}
+vector<int> preorderTraversalRecur(TreeNode* root) {
+    if(!root) return pTAns;
+    toGoDeeper(root);
+    return pTAns;
+}
+
+vector<int> preorderTraversalIter(TreeNode* root) {
+    vector<int> ans;
+    if(!root) return ans;
+    stack<TreeNode*> nodes;
+    nodes.push(root);
+    while(!nodes.empty()){
+        TreeNode* p = nodes.top();
+        if(p->right){
+            nodes.pop();
+            nodes.push(p->right);
+        }
+        else nodes.pop();
+        ans.emplace_back(p->val);
+        if(p->left) nodes.push(p->left);
+    }
+    return ans;
+}
+
 
 #endif //TEST_TREENODE_HPP
