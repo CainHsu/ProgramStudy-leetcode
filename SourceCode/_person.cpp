@@ -4,7 +4,7 @@
 
 #include "person.hpp"
 
-person person::operator-(double year){
+person person::operator-(int year){
     this->age -= year;
     return *this;
 }
@@ -14,7 +14,7 @@ person person::operator-(){
     return *this;
 }
 
-person operator-(double year, person & man){
+person operator-(int year, person & man){
     return (-man + year);
 }
 
@@ -25,3 +25,13 @@ void person::show_all(){
     cout << "Age is: " << age << endl;
     cout << "Height is: " << height << endl;
 }
+
+person::operator int() const{
+    return int(height + 0.5);
+}
+
+person::operator double() const{
+    return height;
+}
+
+

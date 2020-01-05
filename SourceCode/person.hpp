@@ -10,7 +10,7 @@
 
  class person{
 private:
-     std::string name;
+    std::string name;
     int age;
     double height;
 public:
@@ -25,6 +25,9 @@ public:
         age = -1;
         height = 0.0;
     }
+    explicit person(const double & ht){
+        height = ht;
+    }
     person(int num){
         age = num;
     }
@@ -35,16 +38,23 @@ public:
     ~person(){
         //std::cout << "bye~ " << name << std::endl;
     }
-    person operator+(double year) {
+    person operator+(const person & a, const person & b){
+
+    }
+    /*
+    person operator+(int year) {
         this->age = this->age + year;
         return *this;
     }
-    friend person operator+(double year, person & man){
+    friend person operator+(int year, person & man){
         return (man + year);
     }
-    person operator-(double year);
+     */
+    person operator-(int year);
     person operator-();
-    friend  person operator-(double year, person & man);
+    friend  person operator-(int year, person & man);
+    operator int() const;
+    operator double() const;
  };
 
 #endif //PROGRAMSTUDY_LEETCODE_PERSON_HPP

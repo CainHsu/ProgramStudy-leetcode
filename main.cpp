@@ -12,6 +12,8 @@
 
 double externTest = 0.5;
 void update(double dt);
+void updateStatic();
+void updateVec();
 
 struct ListNode;
 
@@ -34,6 +36,9 @@ int & add(int a, int b, int &re){
 
 class person;
 
+static int people = 0;
+static vector<int> sTest;
+
 int main(int argc, char **argv) {
 
     std::vector<std::vector<int>> temp;
@@ -47,33 +52,8 @@ int main(int argc, char **argv) {
     update(0.2);
     std::cout << "After update:" << externTest << std::endl;
 
-    {
-        person xc("xc");
-        xc.show_name();
-        std::cout << std::endl;
-    }
 
-    std::vector<int> tempVec;
-    tempVec.emplace_back(1);
-    test(tempVec);
-    std::cout << tempVec.back();
 
-    int a = 2, b = 3, c;
-    add(a, b, c)+=2;
-    cout << endl << c;
-
-    person test("toolMan");
-    test =  6 + test;
-    test.show_all();
-    test = 20 - test;
-    test.show_all();
-    (-test).show_all();
-    person & man = test;
-    man.nikname;
-
-    person L;
-    L = 5;
-    cout << (3 & 1);
     return 0;
 }
 
