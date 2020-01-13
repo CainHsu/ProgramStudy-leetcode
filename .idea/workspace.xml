@@ -13,14 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++学习/11.使用类/6.类的自动转换和强制类型转换.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/11.使用类/6.类的自动转换和强制类型转换.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/_person.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/_person.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/person.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/person.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main2.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +31,7 @@
   <component name="ProjectId" id="1UgaYYWvPHi7kS2AgklM38orrVT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -109,6 +102,9 @@
       <workItem from="1577535454623" duration="9358000" />
       <workItem from="1577668532069" duration="768000" />
       <workItem from="1578103169443" duration="6716000" />
+      <workItem from="1578400334757" duration="125000" />
+      <workItem from="1578448941713" duration="6449000" />
+      <workItem from="1578905943932" duration="4540000" />
     </task>
     <servers />
   </component>
