@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++学习/12.类和动态内存分配/1.动态内存和类.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/12.类和动态内存分配/1.动态内存和类.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +105,7 @@
       <workItem from="1578103169443" duration="6716000" />
       <workItem from="1578400334757" duration="125000" />
       <workItem from="1578448941713" duration="6449000" />
-      <workItem from="1578905943932" duration="4540000" />
+      <workItem from="1578905943932" duration="10898000" />
     </task>
     <servers />
   </component>
