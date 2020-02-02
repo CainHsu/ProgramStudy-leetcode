@@ -124,6 +124,33 @@ ProgramStudy_leetcode\fast:
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\build
 .PHONY : ProgramStudy_leetcode\fast
 
+SourceCode\_male.obj: SourceCode\_male.cpp.obj
+
+.PHONY : SourceCode\_male.obj
+
+# target to build an object file
+SourceCode\_male.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\SourceCode\_male.cpp.obj
+.PHONY : SourceCode\_male.cpp.obj
+
+SourceCode\_male.i: SourceCode\_male.cpp.i
+
+.PHONY : SourceCode\_male.i
+
+# target to preprocess a source file
+SourceCode\_male.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\SourceCode\_male.cpp.i
+.PHONY : SourceCode\_male.cpp.i
+
+SourceCode\_male.s: SourceCode\_male.cpp.s
+
+.PHONY : SourceCode\_male.s
+
+# target to generate assembly for a file
+SourceCode\_male.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\SourceCode\_male.cpp.s
+.PHONY : SourceCode\_male.cpp.s
+
 SourceCode\_person.obj: SourceCode\_person.cpp.obj
 
 .PHONY : SourceCode\_person.obj
@@ -214,6 +241,9 @@ help:
 	@echo ... ProgramStudy_leetcode
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... SourceCode/_male.obj
+	@echo ... SourceCode/_male.i
+	@echo ... SourceCode/_male.s
 	@echo ... SourceCode/_person.obj
 	@echo ... SourceCode/_person.i
 	@echo ... SourceCode/_person.s

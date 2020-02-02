@@ -38,10 +38,11 @@ public:
     ~person(){
         //std::cout << "bye~ " << name << std::endl;
     }
+    /*
     person operator+(const person & a, const person & b){
 
     }
-    /*
+    */
     person operator+(int year) {
         this->age = this->age + year;
         return *this;
@@ -49,7 +50,7 @@ public:
     friend person operator+(int year, person & man){
         return (man + year);
     }
-     */
+
     person operator-(int year);
     person operator-();
     friend  person operator-(int year, person & man);

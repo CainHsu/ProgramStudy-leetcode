@@ -18,4 +18,4 @@ add_executable(ProgramStudy_leetcode main.cpp
         SourceCode/_person.cpp
         "leetCode/103.Binary Tree Zigzag Level Order Traversal.hpp"
         "leetCode/199.Binary Tree Right Side View.hpp"
-        "SourceCode/else.hpp" "leetCode/144.Binary Tree Preorder Traversal.hpp")
+        "SourceCode/else.hpp" "leetCode/144.Binary Tree Preorder Traversal.hpp" SourceCode/Algorithm/UnionFind.hpp SourceCode/male.hpp SourceCode/_male.cpp)

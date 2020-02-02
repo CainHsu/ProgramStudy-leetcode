@@ -7,6 +7,7 @@
 #include "stack"
 #include "string"
 #include "SourceCode/person.hpp"
+#include "SourceCode/male.hpp"
 
 #define PI 3.1415926
 
@@ -52,7 +53,9 @@ int main(int argc, char **argv) {
     update(0.2);
     std::cout << "After update:" << externTest << std::endl;
 
-
+    person xc("xc");
+    male x(18.0, xc);
+    x.show_all();
 
     return 0;
 }
