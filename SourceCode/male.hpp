@@ -13,6 +13,10 @@ private:
 public:
     male(double d, const person & p);
     male();
+    void show_all_male();
+    void showTest(const person & p);
+
+    virtual void show_all();
 };
 
 #endif //PROGRAMSTUDY_LEETCODE_MALE_HPP

@@ -12,23 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SourceCode/Algorithm/UnionFind.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++学习/13.类继承/1.一个简单的基类.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/13.类继承/1.一个简单的基类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/_male.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/_male.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/_person.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/_person.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/male.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/male.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SourceCode/person.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/person.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
@@ -119,7 +110,7 @@
       <workItem from="1580209863721" duration="1302000" />
       <workItem from="1580523508561" duration="5410000" />
       <workItem from="1580530799113" duration="3325000" />
-      <workItem from="1580613069433" duration="1071000" />
+      <workItem from="1580613069433" duration="15878000" />
     </task>
     <servers />
   </component>
@@ -140,22 +131,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1580610832138">
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom" timestamp="1581047872883">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580610832138" />
-    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1580610832138">
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581047872883" />
+    <state width="1493" height="253" key="GridCell.Tab.0.center" timestamp="1581047872882">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580610832138" />
-    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1580610832138">
+    <state width="1493" height="253" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581047872882" />
+    <state width="1493" height="253" key="GridCell.Tab.0.left" timestamp="1581047872882">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580610832138" />
-    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1580610832138">
+    <state width="1493" height="253" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581047872882" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right" timestamp="1581047872883">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580610832138" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581047872883" />
     <state x="360" y="105" key="SettingsEditor" timestamp="1580613205495">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

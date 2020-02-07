@@ -21,9 +21,12 @@ person operator-(int year, person & man){
 using std::cout;
 using std::endl;
 void person::show_all(){
+    cout << "This is person.";
+    /*
     cout << "Name is: " << name << endl;
     cout << "Age is: " << age << endl;
     cout << "Height is: " << height << endl;
+    */
 }
 
 person::operator int() const{

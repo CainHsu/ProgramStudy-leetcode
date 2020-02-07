@@ -55,7 +55,23 @@ int main(int argc, char **argv) {
 
     person xc("xc");
     male x(18.0, xc);
+    xc.show_all();
     x.show_all();
+    person & _xc = xc;
+    person & _x = x;
+    _xc.show_all();
+    _x.show_all();
+    std::cout << endl;
+    person* p_human[3];
+    p_human[0] = &xc;
+    p_human[1] = &x;
+    cout << endl;
+    p_human[0]->show_all();
+    p_human[1]->show_all();
+
+
+
+
 
     return 0;
 }

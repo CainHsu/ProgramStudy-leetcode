@@ -34,8 +34,9 @@ public:
     void show_name(){
         std::cout << name;
     }
-    void show_all();
-    ~person(){
+
+    virtual void show_all();
+    virtual ~person(){
         //std::cout << "bye~ " << name << std::endl;
     }
     /*
