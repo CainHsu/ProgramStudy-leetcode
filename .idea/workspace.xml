@@ -13,16 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++学习/13.类继承/1.一个简单的基类.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/13.类继承/1.一个简单的基类.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/_male.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/_male.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/_person.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/_person.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/male.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/male.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/person.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/person.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +100,7 @@
       <workItem from="1580209863721" duration="1302000" />
       <workItem from="1580523508561" duration="5410000" />
       <workItem from="1580530799113" duration="3325000" />
-      <workItem from="1580613069433" duration="15878000" />
+      <workItem from="1580613069433" duration="21350000" />
     </task>
     <servers />
   </component>
