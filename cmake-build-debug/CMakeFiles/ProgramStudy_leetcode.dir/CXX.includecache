@@ -20,16 +20,6 @@ D:/codeProjects/ProgramStudy-leetcode/SourceCode/DataStructure/string
 stack
 D:/codeProjects/ProgramStudy-leetcode/SourceCode/DataStructure/stack
 
-D:/codeProjects/ProgramStudy-leetcode/SourceCode/_male.cpp
-person.hpp
-D:/codeProjects/ProgramStudy-leetcode/SourceCode/person.hpp
-male.hpp
-D:/codeProjects/ProgramStudy-leetcode/SourceCode/male.hpp
-
-D:/codeProjects/ProgramStudy-leetcode/SourceCode/_person.cpp
-person.hpp
-D:/codeProjects/ProgramStudy-leetcode/SourceCode/person.hpp
-
 D:/codeProjects/ProgramStudy-leetcode/SourceCode/male.hpp
 person.hpp
 D:/codeProjects/ProgramStudy-leetcode/SourceCode/person.hpp
@@ -42,6 +32,8 @@ D:/codeProjects/ProgramStudy-leetcode/SourceCode/iostream
 
 D:/codeProjects/ProgramStudy-leetcode/main.cpp
 iostream
+-
+queue
 -
 SourceCode/DataStructure/ListNode.hpp
 D:/codeProjects/ProgramStudy-leetcode/SourceCode/DataStructure/ListNode.hpp
