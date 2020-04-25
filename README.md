@@ -37,6 +37,7 @@
 #### 递归 recursion
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 - [107.Binary Tree Level Order Traversal II](./ProblemsSolved/107.Binary-Tree-Level-Order-Traversal-II.md)
+- [112.Path Sum](./ProblemsSolved/112.Path%20Sum.md)
 
 
 #### 迭代 iteration
@@ -50,6 +51,7 @@
 - [103.Binary Tree Zigzag Level Order Traversal](./ProblemsSolved/103.Binary-Tree-Zigzag-Level-Order-Traversal.md)
 - [199.Binary Tree Right Side View](./ProblemsSolved/199.Binary-Tree-Right-Side-View.md)
 - [144.Binary Tree Preorder Trversal](./ProblemsSolved/144.Binary-Tree-Preorder-Traversal.md)
+- [112.Path Sum](./ProblemsSolved/112.Path%20Sum.md)
 
 介绍性内容：
 - [stack](./Data-Structure/stack.md)
