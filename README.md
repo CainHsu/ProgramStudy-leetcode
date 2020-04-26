@@ -39,7 +39,7 @@
 - [107.Binary Tree Level Order Traversal II](./ProblemsSolved/107.Binary-Tree-Level-Order-Traversal-II.md)
 - [112.Path Sum](./ProblemsSolved/112.Path%20Sum.md)
 - [404.Sum of Left Leaves](./ProblemsSolved/404.Sum-of-Left-Leaves.md)
-
+- [872.Leaf-Similiar Trees](./ProblemsSolved/872.Leaf-Similiar-Trees.md)
 
 #### 迭代 iteration
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)

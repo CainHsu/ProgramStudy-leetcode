@@ -151,6 +151,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/739.Daily Temperatures.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/872.Leaf-Similiar Trees.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/main.cpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
