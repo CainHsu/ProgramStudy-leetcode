@@ -13,13 +13,17 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++学习/10/2.抽象和类.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/10/2.抽象和类.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemsSolved/101.Symmetric-Tree.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemsSolved/101.Symmetric-Tree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemsSolved/112.Path Sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemsSolved/112.Path-Sum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +42,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sudoku" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -57,7 +61,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ProgramStudy_leetcode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ProgramStudy_leetcode" TARGET_NAME="ProgramStudy_leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProgramStudy_leetcode" RUN_TARGET_NAME="ProgramStudy_leetcode">
+    <configuration name="ProgramStudy_leetcode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ProgramStudy_leetcode" TARGET_NAME="ProgramStudy_leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProgramStudy_leetcode" RUN_TARGET_NAME="ProgramStudy_leetcode">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -116,26 +120,32 @@
       <workItem from="1587105052554" duration="2159000" />
       <workItem from="1587578621676" duration="14000" />
       <workItem from="1587747915067" duration="4212000" />
+      <workItem from="1587891390001" duration="278000" />
+      <workItem from="1587892038201" duration="184000" />
+      <workItem from="1587892239936" duration="3755000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1266" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587892141865">
+      <screen x="-1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1266" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892141865" />
     <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1581330244921">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -160,16 +170,16 @@
     </state>
     <state width="1397" height="266" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587051416598" />
     <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582571848905" />
-    <state x="-994" y="53" width="994" height="724" key="SettingsEditor" timestamp="1587749924371">
+    <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor" timestamp="1587892221859">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state x="-994" y="53" width="994" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587749924371" />
+    <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892221859" />
     <state x="462" y="142" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586536710249" />
-    <state x="-1008" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1587747915096">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587891391998">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1008" y="271" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587747915096" />
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1587051308073" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1587891391998" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587578622589" />
   </component>
 </project>

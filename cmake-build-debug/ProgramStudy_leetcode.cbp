@@ -109,6 +109,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/person.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/structs.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/101.Symmetric Tree.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
@@ -124,6 +127,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/111.Minimum Depth of Binary Tree.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/112.Path Sum.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/144.Binary Tree Preorder Traversal.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
@@ -137,6 +143,9 @@
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/200.Number of Islands.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/404.Sum of Left Leaves.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/739.Daily Temperatures.hpp">
