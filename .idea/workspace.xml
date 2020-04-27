@@ -114,7 +114,7 @@
       <workItem from="1587747915067" duration="4212000" />
       <workItem from="1587891390001" duration="278000" />
       <workItem from="1587892038201" duration="184000" />
-      <workItem from="1587892239936" duration="7177000" />
+      <workItem from="1587892239936" duration="10226000" />
     </task>
     <servers />
   </component>
@@ -173,5 +173,9 @@
     <state x="-1008" y="271" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587747915096" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1587891391998" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587578622589" />
+    <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1587975273507">
+      <screen x="-1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587975273507" />
   </component>
 </project>
