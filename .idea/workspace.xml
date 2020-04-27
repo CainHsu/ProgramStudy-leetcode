@@ -14,7 +14,6 @@
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,7 @@
       <workItem from="1587747915067" duration="4212000" />
       <workItem from="1587891390001" duration="278000" />
       <workItem from="1587892038201" duration="184000" />
-      <workItem from="1587892239936" duration="10226000" />
+      <workItem from="1587892239936" duration="12088000" />
     </task>
     <servers />
   </component>

@@ -148,6 +148,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/200.Number of Islands.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/226.Invert Binary Tree.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/404.Sum of Left Leaves.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
