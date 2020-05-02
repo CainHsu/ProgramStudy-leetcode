@@ -42,11 +42,14 @@
 - [872.Leaf-Similiar Trees](./ProblemsSolved/872.Leaf-Similiar-Trees.md)
 - [513.Find Bottom Left Tree Value](./ProblemsSolved/513.Find-Bottom-Left-Tree-Value.md)
 - [129.Sum Root to Leaf Numbers](./ProblemsSolved/129.Sum-Root-to-Leaf-Numbers.md)
+- [235.Lowest Common Ancestor of a Binary Search Tree](./ProblemsSolved/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
 
 #### 迭代 iteration
 - [102.Binary Tree Level Order Traversal](./ProblemsSolved/102.Binary-Tree-Order-Traversal.md)
 - [513.Find Bottom Left Tree Value](./ProblemsSolved/513.Find-Bottom-Left-Tree-Value.md)
+- [226.Invert Binary Tree](./ProblemsSolved/226.Invert-Binary-Tree.md)
+- [235.Lowest Common Ancestor of a Binary Search Tree](./ProblemsSolved/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
 ## 待完成
 思路总结：

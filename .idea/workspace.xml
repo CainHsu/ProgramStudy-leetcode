@@ -14,7 +14,9 @@
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/144.Binary Tree Preorder Traversal.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/144.Binary Tree Preorder Traversal.hpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +42,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sudoku" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProblemsSolved/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\codeProjects\ProgramStudy-leetcode\leetCode" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode\DataStructure" />
@@ -113,7 +118,7 @@
       <workItem from="1587747915067" duration="4212000" />
       <workItem from="1587891390001" duration="278000" />
       <workItem from="1587892038201" duration="184000" />
-      <workItem from="1587892239936" duration="12088000" />
+      <workItem from="1587892239936" duration="21041000" />
     </task>
     <servers />
   </component>
@@ -137,9 +142,10 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-1266" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892141865" />
-    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1581330244921">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="-925" y="198" key="FileChooserDialogImpl" timestamp="1588086639395">
+      <screen x="-1440" y="0" width="1440" height="900" />
     </state>
+    <state x="-925" y="198" key="FileChooserDialogImpl/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1588086639395" />
     <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581330244921" />
     <state width="1397" height="266" key="GridCell.Tab.0.bottom" timestamp="1587051416598">
       <screen x="-1440" y="0" width="1440" height="900" />
