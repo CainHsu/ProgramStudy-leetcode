@@ -127,6 +127,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/108.Convert Sorted Array to Binary Tree.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/110.Balanced Binary Tree.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/111.Minimum Depth of Binary Tree.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
