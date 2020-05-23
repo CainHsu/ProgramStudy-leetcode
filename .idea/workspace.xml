@@ -13,9 +13,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++学习/10/2.抽象和类.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/10/2.抽象和类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++学习/10/3.类的构造函数和析构函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/10/3.类的构造函数和析构函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++学习/10/4.this指针.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/10/4.this指针.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,13 @@
       <workItem from="1587892038201" duration="184000" />
       <workItem from="1587892239936" duration="22981000" />
       <workItem from="1589124018523" duration="3000000" />
-      <workItem from="1589588159393" duration="5930000" />
+      <workItem from="1589588159393" duration="6613000" />
+      <workItem from="1589798971523" duration="311000" />
+      <workItem from="1589799299322" duration="165000" />
+      <workItem from="1589799474032" duration="97000" />
+      <workItem from="1589799589078" duration="749000" />
+      <workItem from="1590194143867" duration="1345000" />
+      <workItem from="1590195504273" duration="9974000" />
     </task>
     <servers />
   </component>
@@ -147,7 +153,6 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-925" y="198" key="FileChooserDialogImpl/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1588086639395" />
-    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581330244921" />
     <state width="1397" height="266" key="GridCell.Tab.0.bottom" timestamp="1587051416598">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
@@ -168,10 +173,11 @@
     </state>
     <state width="1397" height="266" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587051416598" />
     <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582571848905" />
-    <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor" timestamp="1587892221859">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state x="75" y="47" width="1317" height="707" key="SettingsEditor" timestamp="1590195487591">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892221859" />
+    <state x="75" y="47" width="1317" height="707" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1590195487591" />
     <state x="462" y="142" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586536710249" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587891391998">
       <screen x="0" y="0" width="1536" height="864" />
