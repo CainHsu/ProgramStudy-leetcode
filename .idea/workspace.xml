@@ -13,9 +13,22 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++学习/10/4.this指针.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/10/4.this指针.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++学习/11.使用类/3.友元.md" beforeDir="false" afterPath="$PROJECT_DIR$/C++学习/11.使用类/3.友元.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/More Effective C++/1Basics/article2.md" beforeDir="false" afterPath="$PROJECT_DIR$/More Effective C++/1Basics/article2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +56,11 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ProblemsSolved/images" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\Algorithms\1Base" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\leetCode" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode\DataStructure" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode" />
@@ -125,7 +139,9 @@
       <workItem from="1589799474032" duration="97000" />
       <workItem from="1589799589078" duration="749000" />
       <workItem from="1590194143867" duration="1345000" />
-      <workItem from="1590195504273" duration="34198000" />
+      <workItem from="1590195504273" duration="56335000" />
+      <workItem from="1591407050385" duration="1276000" />
+      <workItem from="1591408366293" duration="1488000" />
     </task>
     <servers />
   </component>
@@ -157,41 +173,41 @@
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
     <state x="-925" y="198" key="FileChooserDialogImpl/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1588086639395" />
-    <state width="1397" height="266" key="GridCell.Tab.0.bottom" timestamp="1587051416598">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1495" height="98" key="GridCell.Tab.0.bottom" timestamp="1591407008135">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1397" height="266" key="GridCell.Tab.0.bottom/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587051416598" />
-    <state width="1493" height="253" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582571848905" />
-    <state width="1397" height="266" key="GridCell.Tab.0.center" timestamp="1587051416598">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1399" height="98" key="GridCell.Tab.0.bottom/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591280360175" />
+    <state width="1495" height="98" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591407008135" />
+    <state width="1495" height="98" key="GridCell.Tab.0.center" timestamp="1591407008135">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1397" height="266" key="GridCell.Tab.0.center/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587051416598" />
-    <state width="1493" height="253" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582571848905" />
-    <state width="1397" height="266" key="GridCell.Tab.0.left" timestamp="1587051416598">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1399" height="98" key="GridCell.Tab.0.center/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591280360175" />
+    <state width="1495" height="98" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591407008135" />
+    <state width="1495" height="98" key="GridCell.Tab.0.left" timestamp="1591407008135">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1397" height="266" key="GridCell.Tab.0.left/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587051416598" />
-    <state width="1493" height="253" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582571848904" />
-    <state width="1397" height="266" key="GridCell.Tab.0.right" timestamp="1587051416598">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1399" height="98" key="GridCell.Tab.0.left/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591280360174" />
+    <state width="1495" height="98" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591407008135" />
+    <state width="1495" height="98" key="GridCell.Tab.0.right" timestamp="1591407008135">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1397" height="266" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587051416598" />
-    <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582571848905" />
-    <state x="75" y="47" width="1317" height="707" key="SettingsEditor" timestamp="1590195487591">
+    <state width="1399" height="98" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591280360175" />
+    <state width="1495" height="98" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591407008135" />
+    <state x="462" y="54" width="1317" height="707" key="SettingsEditor" timestamp="1591404906671">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892221859" />
     <state x="75" y="47" width="1317" height="707" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1590195487591" />
-    <state x="462" y="142" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586536710249" />
+    <state x="462" y="54" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591404906671" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587891391998">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1008" y="271" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587747915096" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1587891391998" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587578622589" />
-    <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1587975273507">
+    <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1591366467993">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
-    <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587975273507" />
+    <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591366467993" />
   </component>
 </project>

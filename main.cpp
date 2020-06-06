@@ -44,42 +44,25 @@ static int people = 0;
 static vector<int> sTest;
 
 
-
+void count(int & N){
+    N++;
+}
 
 int main(int argc, char **argv) {
-
-    std::vector<std::vector<int>> temp;
-    temp.emplace_back();
-    temp.emplace_back();
-    temp[1].emplace_back(2333);
-    std::cout << temp[1].size() << std::endl;
-    std::cout << temp[1][0] << std::endl;
-
-    std::cout << "externTest:" << externTest << std::endl;
-    update(0.2);
-    std::cout << "After update:" << externTest << std::endl;
-
-    person xc("xc");
-    male x(18.0, xc);
-    xc.show_all();
-    x.show_all();
-    person & _xc = xc;
-    person & _x = x;
-    _xc.show_all();
-    _x.show_all();
-    std::cout << endl;
-    person* p_human[3];
-    p_human[0] = &xc;
-    p_human[1] = &x;
-    cout << endl;
-    p_human[0]->show_all();
-    p_human[1]->show_all();
-
-
-
-
-
-
+    const int aa = 0;
+    const_cast<int&>(aa)++;
+    count(const_cast<int&>(aa));
+    const int& bb = aa;
+    count(const_cast<int&>(bb));
+    cout << aa << endl;
+    static int a = 0;
+    a++;
+    const int & b = a;
+    int & c = a;
+    c++;
+    const_cast<int&>(b)++;
+    count(const_cast<int&>(a));
+    cout << a << endl << c;
     return 0;
 }
 

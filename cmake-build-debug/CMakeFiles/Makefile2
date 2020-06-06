@@ -75,12 +75,12 @@ clean: CMakeFiles\ProgramStudy_leetcode.dir\clean
 CMakeFiles\ProgramStudy_leetcode.dir\all:
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\depend
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5 "Built target ProgramStudy_leetcode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target ProgramStudy_leetcode"
 .PHONY : CMakeFiles\ProgramStudy_leetcode.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\ProgramStudy_leetcode.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles 6
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles\ProgramStudy_leetcode.dir\rule

@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/1Base/unionFind.cpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/1Base/unionFind.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/Algorithm/BFS.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>

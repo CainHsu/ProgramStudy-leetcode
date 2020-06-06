@@ -124,6 +124,33 @@ ProgramStudy_leetcode\fast:
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\build
 .PHONY : ProgramStudy_leetcode\fast
 
+Algorithms\1Base\unionFind.obj: Algorithms\1Base\unionFind.cpp.obj
+
+.PHONY : Algorithms\1Base\unionFind.obj
+
+# target to build an object file
+Algorithms\1Base\unionFind.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.obj
+.PHONY : Algorithms\1Base\unionFind.cpp.obj
+
+Algorithms\1Base\unionFind.i: Algorithms\1Base\unionFind.cpp.i
+
+.PHONY : Algorithms\1Base\unionFind.i
+
+# target to preprocess a source file
+Algorithms\1Base\unionFind.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.i
+.PHONY : Algorithms\1Base\unionFind.cpp.i
+
+Algorithms\1Base\unionFind.s: Algorithms\1Base\unionFind.cpp.s
+
+.PHONY : Algorithms\1Base\unionFind.s
+
+# target to generate assembly for a file
+Algorithms\1Base\unionFind.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.s
+.PHONY : Algorithms\1Base\unionFind.cpp.s
+
 SourceCode\_male.obj: SourceCode\_male.cpp.obj
 
 .PHONY : SourceCode\_male.obj
@@ -241,6 +268,9 @@ help:
 	@echo ... ProgramStudy_leetcode
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Algorithms/1Base/unionFind.obj
+	@echo ... Algorithms/1Base/unionFind.i
+	@echo ... Algorithms/1Base/unionFind.s
 	@echo ... SourceCode/_male.obj
 	@echo ... SourceCode/_male.i
 	@echo ... SourceCode/_male.s
