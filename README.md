@@ -52,6 +52,9 @@
 - [226.Invert Binary Tree](./ProblemsSolved/226.Invert-Binary-Tree.md)
 - [235.Lowest Common Ancestor of a Binary Search Tree](./ProblemsSolved/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
+#### 排序 sort
+- [242.Vaild Anagram](./ProblemsSolved/242.Valid-Anagram.md)
+
 ## 待完成
 思路总结：
 - [111.Minimum Depth of Binary Tree](./ProblemsSolved/111.Minimum-Depth-of-Binary-Tree.md)

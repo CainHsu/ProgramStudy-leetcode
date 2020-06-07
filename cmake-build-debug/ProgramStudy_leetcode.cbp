@@ -94,6 +94,12 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/1ElementarySorts/elementarySorts.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/2MergeSort/mergeSort.cpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/2MergeSort/mergeSort.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/data.cpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>

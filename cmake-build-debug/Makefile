@@ -178,6 +178,33 @@ Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s:
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s
 .PHONY : Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s
 
+Algorithms\2Sorting\2MergeSort\mergeSort.obj: Algorithms\2Sorting\2MergeSort\mergeSort.cpp.obj
+
+.PHONY : Algorithms\2Sorting\2MergeSort\mergeSort.obj
+
+# target to build an object file
+Algorithms\2Sorting\2MergeSort\mergeSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\2MergeSort\mergeSort.cpp.obj
+.PHONY : Algorithms\2Sorting\2MergeSort\mergeSort.cpp.obj
+
+Algorithms\2Sorting\2MergeSort\mergeSort.i: Algorithms\2Sorting\2MergeSort\mergeSort.cpp.i
+
+.PHONY : Algorithms\2Sorting\2MergeSort\mergeSort.i
+
+# target to preprocess a source file
+Algorithms\2Sorting\2MergeSort\mergeSort.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\2MergeSort\mergeSort.cpp.i
+.PHONY : Algorithms\2Sorting\2MergeSort\mergeSort.cpp.i
+
+Algorithms\2Sorting\2MergeSort\mergeSort.s: Algorithms\2Sorting\2MergeSort\mergeSort.cpp.s
+
+.PHONY : Algorithms\2Sorting\2MergeSort\mergeSort.s
+
+# target to generate assembly for a file
+Algorithms\2Sorting\2MergeSort\mergeSort.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\2MergeSort\mergeSort.cpp.s
+.PHONY : Algorithms\2Sorting\2MergeSort\mergeSort.cpp.s
+
 Algorithms\2Sorting\data.obj: Algorithms\2Sorting\data.cpp.obj
 
 .PHONY : Algorithms\2Sorting\data.obj
@@ -328,6 +355,9 @@ help:
 	@echo ... Algorithms/2Sorting/1ElementarySorts/elementarySorts.obj
 	@echo ... Algorithms/2Sorting/1ElementarySorts/elementarySorts.i
 	@echo ... Algorithms/2Sorting/1ElementarySorts/elementarySorts.s
+	@echo ... Algorithms/2Sorting/2MergeSort/mergeSort.obj
+	@echo ... Algorithms/2Sorting/2MergeSort/mergeSort.i
+	@echo ... Algorithms/2Sorting/2MergeSort/mergeSort.s
 	@echo ... Algorithms/2Sorting/data.obj
 	@echo ... Algorithms/2Sorting/data.i
 	@echo ... Algorithms/2Sorting/data.s
