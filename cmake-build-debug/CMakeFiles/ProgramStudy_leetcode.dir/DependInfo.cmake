@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/codeProjects/ProgramStudy-leetcode/Algorithms/1Base/unionFind.cpp" "D:/codeProjects/ProgramStudy-leetcode/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/1Base/unionFind.cpp.obj"
+  "D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/1ElementarySorts/elementarySorts.cpp" "D:/codeProjects/ProgramStudy-leetcode/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/1ElementarySorts/elementarySorts.cpp.obj"
+  "D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/data.cpp" "D:/codeProjects/ProgramStudy-leetcode/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/data.cpp.obj"
   "D:/codeProjects/ProgramStudy-leetcode/SourceCode/_male.cpp" "D:/codeProjects/ProgramStudy-leetcode/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/SourceCode/_male.cpp.obj"
   "D:/codeProjects/ProgramStudy-leetcode/SourceCode/_person.cpp" "D:/codeProjects/ProgramStudy-leetcode/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/SourceCode/_person.cpp.obj"
   "D:/codeProjects/ProgramStudy-leetcode/main.cpp" "D:/codeProjects/ProgramStudy-leetcode/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/main.cpp.obj"

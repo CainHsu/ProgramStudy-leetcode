@@ -88,6 +88,18 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/1Base/unionFind.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/1ElementarySorts/elementarySorts.cpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/1ElementarySorts/elementarySorts.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/data.cpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/data.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/Algorithm/BFS.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>

@@ -153,13 +153,53 @@ CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.s: cmake_for
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.s /c D:\codeProjects\ProgramStudy-leetcode\Algorithms\1Base\unionFind.cpp
 <<
 
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj: CMakeFiles\ProgramStudy_leetcode.dir\flags.make
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj: ..\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/1ElementarySorts/elementarySorts.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj /FdCMakeFiles\ProgramStudy_leetcode.dir\ /FS -c D:\codeProjects\ProgramStudy-leetcode\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp
+<<
+
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/1ElementarySorts/elementarySorts.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\codeProjects\ProgramStudy-leetcode\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp
+<<
+
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/1ElementarySorts/elementarySorts.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s /c D:\codeProjects\ProgramStudy-leetcode\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp
+<<
+
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj: CMakeFiles\ProgramStudy_leetcode.dir\flags.make
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj: ..\Algorithms\2Sorting\data.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/data.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj /FdCMakeFiles\ProgramStudy_leetcode.dir\ /FS -c D:\codeProjects\ProgramStudy-leetcode\Algorithms\2Sorting\data.cpp
+<<
+
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/data.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe > CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\codeProjects\ProgramStudy-leetcode\Algorithms\2Sorting\data.cpp
+<<
+
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramStudy_leetcode.dir/Algorithms/2Sorting/data.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.s /c D:\codeProjects\ProgramStudy-leetcode\Algorithms\2Sorting\data.cpp
+<<
+
 # Object files for target ProgramStudy_leetcode
 ProgramStudy_leetcode_OBJECTS = \
 "CMakeFiles\ProgramStudy_leetcode.dir\main.cpp.obj" \
 "CMakeFiles\ProgramStudy_leetcode.dir\main2.cpp.obj" \
 "CMakeFiles\ProgramStudy_leetcode.dir\SourceCode\_person.cpp.obj" \
 "CMakeFiles\ProgramStudy_leetcode.dir\SourceCode\_male.cpp.obj" \
-"CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.obj"
+"CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.obj" \
+"CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj" \
+"CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj"
 
 # External object files for target ProgramStudy_leetcode
 ProgramStudy_leetcode_EXTERNAL_OBJECTS =
@@ -169,9 +209,11 @@ ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\main2.cpp.obj
 ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\SourceCode\_person.cpp.obj
 ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\SourceCode\_male.cpp.obj
 ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.obj
+ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj
+ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj
 ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\build.make
 ProgramStudy_leetcode.exe: CMakeFiles\ProgramStudy_leetcode.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable ProgramStudy_leetcode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable ProgramStudy_leetcode.exe"
 	"C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\ProgramStudy_leetcode.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\ProgramStudy_leetcode.dir\objects1.rsp @<<
  /out:ProgramStudy_leetcode.exe /implib:ProgramStudy_leetcode.lib /pdb:D:\codeProjects\ProgramStudy-leetcode\cmake-build-debug\ProgramStudy_leetcode.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

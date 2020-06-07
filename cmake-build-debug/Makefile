@@ -151,6 +151,60 @@ Algorithms\1Base\unionFind.cpp.s:
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\1Base\unionFind.cpp.s
 .PHONY : Algorithms\1Base\unionFind.cpp.s
 
+Algorithms\2Sorting\1ElementarySorts\elementarySorts.obj: Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj
+
+.PHONY : Algorithms\2Sorting\1ElementarySorts\elementarySorts.obj
+
+# target to build an object file
+Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj
+.PHONY : Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.obj
+
+Algorithms\2Sorting\1ElementarySorts\elementarySorts.i: Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.i
+
+.PHONY : Algorithms\2Sorting\1ElementarySorts\elementarySorts.i
+
+# target to preprocess a source file
+Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.i
+.PHONY : Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.i
+
+Algorithms\2Sorting\1ElementarySorts\elementarySorts.s: Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s
+
+.PHONY : Algorithms\2Sorting\1ElementarySorts\elementarySorts.s
+
+# target to generate assembly for a file
+Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s
+.PHONY : Algorithms\2Sorting\1ElementarySorts\elementarySorts.cpp.s
+
+Algorithms\2Sorting\data.obj: Algorithms\2Sorting\data.cpp.obj
+
+.PHONY : Algorithms\2Sorting\data.obj
+
+# target to build an object file
+Algorithms\2Sorting\data.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj
+.PHONY : Algorithms\2Sorting\data.cpp.obj
+
+Algorithms\2Sorting\data.i: Algorithms\2Sorting\data.cpp.i
+
+.PHONY : Algorithms\2Sorting\data.i
+
+# target to preprocess a source file
+Algorithms\2Sorting\data.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.i
+.PHONY : Algorithms\2Sorting\data.cpp.i
+
+Algorithms\2Sorting\data.s: Algorithms\2Sorting\data.cpp.s
+
+.PHONY : Algorithms\2Sorting\data.s
+
+# target to generate assembly for a file
+Algorithms\2Sorting\data.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.s
+.PHONY : Algorithms\2Sorting\data.cpp.s
+
 SourceCode\_male.obj: SourceCode\_male.cpp.obj
 
 .PHONY : SourceCode\_male.obj
@@ -271,6 +325,12 @@ help:
 	@echo ... Algorithms/1Base/unionFind.obj
 	@echo ... Algorithms/1Base/unionFind.i
 	@echo ... Algorithms/1Base/unionFind.s
+	@echo ... Algorithms/2Sorting/1ElementarySorts/elementarySorts.obj
+	@echo ... Algorithms/2Sorting/1ElementarySorts/elementarySorts.i
+	@echo ... Algorithms/2Sorting/1ElementarySorts/elementarySorts.s
+	@echo ... Algorithms/2Sorting/data.obj
+	@echo ... Algorithms/2Sorting/data.i
+	@echo ... Algorithms/2Sorting/data.s
 	@echo ... SourceCode/_male.obj
 	@echo ... SourceCode/_male.i
 	@echo ... SourceCode/_male.s
