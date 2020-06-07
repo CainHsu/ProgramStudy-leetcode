@@ -17,7 +17,6 @@ void ElementarySorts::selectionSort() {
 
 void ElementarySorts::insertionSort() {
     for(int i = 1; i < NUM.getNums().size() - 1; ++i){
-        int insert = NUM.getNums()[1];
         for(int j = i; j > 0 && NUM.getNums()[j] < NUM.getNums()[j+1]; ++j){
             NUM.exch(j, j+1);
         }
@@ -28,8 +27,13 @@ void ElementarySorts::shellSort() {
     int N = NUM.getNums().size();
     int h = 1;
     while(h < N/3) h = 3*h + 1;
-    while(h>=1){
-
+    while(h >= 1){
+        for(int i = h; i < N; ++i){
+            for(int j = i; j >= h && NUM.getNums()[j] < NUM.getNums()[j - h]; j -= h){
+                NUM.exch(j, j-h);
+            }
+        }
+        h /= 3;
     }
 }
 

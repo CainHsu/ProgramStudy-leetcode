@@ -178,6 +178,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/235.Lowest Common Ancestor of a Binary Search Tree.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/242.Valid Anagram.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/404.Sum of Left Leaves.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>

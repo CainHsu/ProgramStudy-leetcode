@@ -6,15 +6,20 @@
 #define PROGRAMSTUDY_LEETCODE_DATA_HPP
 
 #include "vector"
+#include "iostream"
 
 using namespace std;
 
 class data {
 private:
     vector<int> nums;
+    char sortedFlag;
 public:
+    explicit data(int N);
     vector<int>& getNums();
+    void generateRanVec(int N);
     void exch(int i, int j);
+    void show();
 };
 
 
