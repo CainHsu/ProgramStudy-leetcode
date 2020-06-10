@@ -6,8 +6,8 @@
 
 
 void mergeSort::merge(int lo, int mid, int hi) {
-    int i = lo, j = mid + 1;
-    vector<int> temp(NUM.getNums().begin() + lo, NUM.getNums().begin()+hi);
+    int i = lo - lo, j = mid + 1 - lo;
+    vector<int> temp(NUM.getNums().begin() + lo, NUM.getNums().begin() + hi);
     for(int k = lo; k < hi; ++k){
         if(i > mid)
             NUM.getNums()[k] = temp[j++];
@@ -18,4 +18,16 @@ void mergeSort::merge(int lo, int mid, int hi) {
         else
             NUM.getNums()[k] = temp[j++];
     }
+}
+
+void mergeSort::sort(int lo, int hi) {
+    if(hi <= lo) return;
+    int mid = lo + (hi - lo)/2;
+    this->sort(lo, mid);
+    this->sort(mid, hi);
+    this->merge(lo, mid, hi);
+}
+
+void mergeSort::sort() {
+    this->sort(0, NUM.getNums().size());
 }
