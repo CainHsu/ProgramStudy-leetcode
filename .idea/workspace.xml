@@ -13,8 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/2Sorting/2MergeSort/mergeSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/2Sorting/2MergeSort/mergeSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/2Sorting/2MergeSort/mergeSort.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/2Sorting/2MergeSort/mergeSort.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/More Effective C++/3Exceptions/article9.md" beforeDir="false" afterPath="$PROJECT_DIR$/More Effective C++/3Exceptions(veryImportant)/article9.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ProblemsSolved/images" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -129,7 +128,7 @@
       <workItem from="1591407050385" duration="1276000" />
       <workItem from="1591408366293" duration="29754000" />
       <workItem from="1591671599105" duration="156000" />
-      <workItem from="1591671771278" duration="4967000" />
+      <workItem from="1591671771278" duration="12974000" />
     </task>
     <servers />
   </component>
@@ -181,12 +180,12 @@
     </state>
     <state width="1399" height="98" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591280360175" />
     <state width="1495" height="98" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591407008135" />
-    <state x="466" y="52" width="1317" height="707" key="SettingsEditor" timestamp="1591671569386">
+    <state x="466" y="52" width="1317" height="707" key="SettingsEditor" timestamp="1591772178468">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892221859" />
     <state x="75" y="47" width="1317" height="707" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1590195487591" />
-    <state x="466" y="52" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591671569386" />
+    <state x="466" y="52" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591772178468" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587891391998">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
