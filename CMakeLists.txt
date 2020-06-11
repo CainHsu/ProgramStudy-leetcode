@@ -42,4 +42,4 @@ add_executable(ProgramStudy_leetcode main.cpp
         Algorithms/2Sorting/2MergeSort/mergeSort.cpp
         Algorithms/2Sorting/2MergeSort/mergeSort.hpp
         Algorithms/2Sorting/tools.cpp
-        Algorithms/2Sorting/tools.hpp)
+        Algorithms/2Sorting/tools.hpp Algorithms/2Sorting/3QuickSort/quickSort.cpp Algorithms/2Sorting/3QuickSort/quickSort.hpp)

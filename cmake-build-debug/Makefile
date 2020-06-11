@@ -205,6 +205,33 @@ Algorithms\2Sorting\2MergeSort\mergeSort.cpp.s:
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\2MergeSort\mergeSort.cpp.s
 .PHONY : Algorithms\2Sorting\2MergeSort\mergeSort.cpp.s
 
+Algorithms\2Sorting\3QuickSort\quickSort.obj: Algorithms\2Sorting\3QuickSort\quickSort.cpp.obj
+
+.PHONY : Algorithms\2Sorting\3QuickSort\quickSort.obj
+
+# target to build an object file
+Algorithms\2Sorting\3QuickSort\quickSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\3QuickSort\quickSort.cpp.obj
+.PHONY : Algorithms\2Sorting\3QuickSort\quickSort.cpp.obj
+
+Algorithms\2Sorting\3QuickSort\quickSort.i: Algorithms\2Sorting\3QuickSort\quickSort.cpp.i
+
+.PHONY : Algorithms\2Sorting\3QuickSort\quickSort.i
+
+# target to preprocess a source file
+Algorithms\2Sorting\3QuickSort\quickSort.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\3QuickSort\quickSort.cpp.i
+.PHONY : Algorithms\2Sorting\3QuickSort\quickSort.cpp.i
+
+Algorithms\2Sorting\3QuickSort\quickSort.s: Algorithms\2Sorting\3QuickSort\quickSort.cpp.s
+
+.PHONY : Algorithms\2Sorting\3QuickSort\quickSort.s
+
+# target to generate assembly for a file
+Algorithms\2Sorting\3QuickSort\quickSort.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\3QuickSort\quickSort.cpp.s
+.PHONY : Algorithms\2Sorting\3QuickSort\quickSort.cpp.s
+
 Algorithms\2Sorting\data.obj: Algorithms\2Sorting\data.cpp.obj
 
 .PHONY : Algorithms\2Sorting\data.obj
@@ -385,6 +412,9 @@ help:
 	@echo ... Algorithms/2Sorting/2MergeSort/mergeSort.obj
 	@echo ... Algorithms/2Sorting/2MergeSort/mergeSort.i
 	@echo ... Algorithms/2Sorting/2MergeSort/mergeSort.s
+	@echo ... Algorithms/2Sorting/3QuickSort/quickSort.obj
+	@echo ... Algorithms/2Sorting/3QuickSort/quickSort.i
+	@echo ... Algorithms/2Sorting/3QuickSort/quickSort.s
 	@echo ... Algorithms/2Sorting/data.obj
 	@echo ... Algorithms/2Sorting/data.i
 	@echo ... Algorithms/2Sorting/data.s
