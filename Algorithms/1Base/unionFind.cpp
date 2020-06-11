@@ -4,6 +4,8 @@
 
 #include "unionFind.hpp"
 
+int UnionFind::count = 0;
+
 UnionFind::UnionFind(int N) {
     count = N;
     for(int i = 0; i < N; ++i) {

@@ -7,6 +7,7 @@
 
 #include "../data.hpp"
 #include "vector"
+#include "../tools.hpp"
 
 using namespace std;
 
@@ -21,6 +22,8 @@ public:
     void sort(int lo, int hi);
 
     void sort();
+
+    void sortBU();
 };
 
 

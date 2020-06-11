@@ -31,3 +31,12 @@ void mergeSort::sort(int lo, int hi) {
 void mergeSort::sort() {
     this->sort(0, NUM.getNums().size());
 }
+
+void mergeSort::sortBU() {
+    int N = NUM.getNums().size();
+    for(int sz = 1; sz < N; sz = sz + sz){
+        for(int lo = 0; lo < N-sz; lo += sz + sz){
+            this->merge(lo, lo + sz - 1, min(lo + sz + sz - 1, N - 1));
+        }
+    }
+}

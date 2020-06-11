@@ -32,7 +32,7 @@ while(statement){
 使用智能指针的场景通常是：使用一个对象用以存放必须要被释放的资源
 ```c++
 while(statement){
-    unqiue_ptr<Obj*> O(new Obj("O"));
+    unqiue_ptr<Obj> O(new Obj("O"));
     O.get()->operation();
 }
 ```

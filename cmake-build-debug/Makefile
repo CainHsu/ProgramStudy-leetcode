@@ -232,6 +232,33 @@ Algorithms\2Sorting\data.cpp.s:
 	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.s
 .PHONY : Algorithms\2Sorting\data.cpp.s
 
+Algorithms\2Sorting\tools.obj: Algorithms\2Sorting\tools.cpp.obj
+
+.PHONY : Algorithms\2Sorting\tools.obj
+
+# target to build an object file
+Algorithms\2Sorting\tools.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\tools.cpp.obj
+.PHONY : Algorithms\2Sorting\tools.cpp.obj
+
+Algorithms\2Sorting\tools.i: Algorithms\2Sorting\tools.cpp.i
+
+.PHONY : Algorithms\2Sorting\tools.i
+
+# target to preprocess a source file
+Algorithms\2Sorting\tools.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\tools.cpp.i
+.PHONY : Algorithms\2Sorting\tools.cpp.i
+
+Algorithms\2Sorting\tools.s: Algorithms\2Sorting\tools.cpp.s
+
+.PHONY : Algorithms\2Sorting\tools.s
+
+# target to generate assembly for a file
+Algorithms\2Sorting\tools.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgramStudy_leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\tools.cpp.s
+.PHONY : Algorithms\2Sorting\tools.cpp.s
+
 SourceCode\_male.obj: SourceCode\_male.cpp.obj
 
 .PHONY : SourceCode\_male.obj
@@ -361,6 +388,9 @@ help:
 	@echo ... Algorithms/2Sorting/data.obj
 	@echo ... Algorithms/2Sorting/data.i
 	@echo ... Algorithms/2Sorting/data.s
+	@echo ... Algorithms/2Sorting/tools.obj
+	@echo ... Algorithms/2Sorting/tools.i
+	@echo ... Algorithms/2Sorting/tools.s
 	@echo ... SourceCode/_male.obj
 	@echo ... SourceCode/_male.i
 	@echo ... SourceCode/_male.s

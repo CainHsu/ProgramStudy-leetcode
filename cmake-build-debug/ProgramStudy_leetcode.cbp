@@ -106,6 +106,12 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/data.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/tools.cpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/Algorithms/2Sorting/tools.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/Algorithm/BFS.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>

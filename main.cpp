@@ -49,20 +49,9 @@ void count(int & N){
 }
 
 int main(int argc, char **argv) {
-    const int aa = 0;
-    const_cast<int&>(aa)++;
-    count(const_cast<int&>(aa));
-    const int& bb = aa;
-    count(const_cast<int&>(bb));
-    cout << aa << endl;
-    static int a = 0;
-    a++;
-    const int & b = a;
-    int & c = a;
-    c++;
-    const_cast<int&>(b)++;
-    count(const_cast<int&>(a));
-    cout << a << endl << c;
+
+
+
     return 0;
 }
 
