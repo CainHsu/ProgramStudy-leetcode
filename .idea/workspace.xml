@@ -12,7 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/More Effective C++/4Efficiency/article19.md" beforeDir="false" afterPath="$PROJECT_DIR$/More Effective C++/4Efficiency/article19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,8 @@
       <workItem from="1592142121338" duration="16742000" />
       <workItem from="1592459400392" duration="126000" />
       <workItem from="1592459560540" duration="9502000" />
-      <workItem from="1592631971980" duration="4626000" />
+      <workItem from="1592631971980" duration="5852000" />
+      <workItem from="1592717883364" duration="1811000" />
     </task>
     <servers />
   </component>
