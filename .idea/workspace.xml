@@ -133,7 +133,8 @@
       <workItem from="1592459560540" duration="9502000" />
       <workItem from="1592631971980" duration="5852000" />
       <workItem from="1592717883364" duration="4632000" />
-      <workItem from="1592890917705" duration="3157000" />
+      <workItem from="1592890917705" duration="4914000" />
+      <workItem from="1592977518654" duration="1259000" />
     </task>
     <servers />
   </component>
@@ -185,12 +186,12 @@
     </state>
     <state width="1399" height="98" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591280360175" />
     <state width="1495" height="170" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591855081109" />
-    <state x="466" y="52" width="1317" height="707" key="SettingsEditor" timestamp="1591855134910">
+    <state x="466" y="52" width="1317" height="707" key="SettingsEditor" timestamp="1592977781374">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892221859" />
     <state x="75" y="47" width="1317" height="707" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1590195487591" />
-    <state x="466" y="52" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591855134910" />
+    <state x="466" y="52" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592977781374" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587891391998">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
