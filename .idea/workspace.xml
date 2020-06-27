@@ -43,14 +43,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved" />
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\Algorithms\1Base" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\leetCode" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode\DataStructure" />
-      <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -135,7 +136,7 @@
       <workItem from="1592717883364" duration="4632000" />
       <workItem from="1592890917705" duration="4914000" />
       <workItem from="1592977518654" duration="3287000" />
-      <workItem from="1593149920855" duration="12458000" />
+      <workItem from="1593149920855" duration="18438000" />
     </task>
     <servers />
   </component>
@@ -203,11 +204,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591498413401" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1591863925112">
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1593241416317">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591366467993" />
     <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1591705520802" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1591863925112" />
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1593241416317" />
   </component>
 </project>
