@@ -37,6 +37,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="Daily Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/More Effective C++/4Efficiency/article24.md" beforeDir="false" afterPath="$PROJECT_DIR$/More Effective C++/4Efficiency/article24.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ProblemsSolved/images" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -165,7 +166,7 @@
       <workItem from="1592977518654" duration="3287000" />
       <workItem from="1593149920855" duration="34597000" />
       <workItem from="1593589156427" duration="4075000" />
-      <workItem from="1593652127182" duration="4797000" />
+      <workItem from="1593652127182" duration="19328000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
@@ -276,12 +277,12 @@
     </state>
     <state width="1399" height="98" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591280360175" />
     <state width="1495" height="170" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591855081109" />
-    <state x="466" y="52" width="1317" height="707" key="SettingsEditor" timestamp="1592977781374">
+    <state x="466" y="52" width="1317" height="707" key="SettingsEditor" timestamp="1593823813376">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892221859" />
     <state x="75" y="47" width="1317" height="707" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1590195487591" />
-    <state x="466" y="52" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592977781374" />
+    <state x="466" y="52" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1593823813376" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587891391998">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

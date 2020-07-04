@@ -57,6 +57,12 @@ ptr->f1();
 equals to:
 (*ptr->vptr[i])(ptr)
 ```
+
+## 多种继承和虚class
+多重继承非虚class时，base的成员变量会在每一个derive中复制
+
+将base设置为虚class可以避免这些复制行为，然而虚base会导致对象内隐含的指针增加，指向base
+
 ## RTTI
 存在于vtbl中，以type_info形式存在，可以通过typeid()获取
 
