@@ -42,4 +42,4 @@ add_executable(ProgramStudy_leetcode main.cpp
         Algorithms/2Sorting/2MergeSort/mergeSort.cpp
         Algorithms/2Sorting/2MergeSort/mergeSort.hpp
         Algorithms/2Sorting/tools.cpp
-        Algorithms/2Sorting/tools.hpp Algorithms/2Sorting/3QuickSort/quickSort.cpp Algorithms/2Sorting/3QuickSort/quickSort.hpp leetCode/15.3Sum.hpp "leetCode/16.3Sum Closest.hpp" leetCode/18.4Sum.hpp)
+        Algorithms/2Sorting/tools.hpp Algorithms/2Sorting/3QuickSort/quickSort.cpp Algorithms/2Sorting/3QuickSort/quickSort.hpp leetCode/15.3Sum.hpp "leetCode/16.3Sum Closest.hpp" leetCode/18.4Sum.hpp "leetCode/31.Next Permutation.hpp")
