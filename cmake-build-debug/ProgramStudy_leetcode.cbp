@@ -211,6 +211,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/31.Next Permutation.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/34.Find First and Last Position of Element in Sorted Array.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/404.Sum of Left Leaves.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>

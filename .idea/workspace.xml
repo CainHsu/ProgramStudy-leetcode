@@ -38,7 +38,6 @@
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="Daily Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemsSolved/15.3Sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemsSolved/15.3Sum.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +170,8 @@
       <workItem from="1593652127182" duration="22330000" />
       <workItem from="1593865291738" duration="2145000" />
       <workItem from="1593909457570" duration="2497000" />
-      <workItem from="1594145004392" duration="2513000" />
+      <workItem from="1594145004392" duration="4394000" />
+      <workItem from="1594283115819" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
