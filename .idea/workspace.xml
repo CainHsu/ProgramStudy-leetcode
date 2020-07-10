@@ -72,15 +72,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\Algorithms\1Base" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\leetCode" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode\DataStructure" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -171,7 +171,9 @@
       <workItem from="1593865291738" duration="2145000" />
       <workItem from="1593909457570" duration="2497000" />
       <workItem from="1594145004392" duration="4394000" />
-      <workItem from="1594283115819" duration="340000" />
+      <workItem from="1594283115819" duration="999000" />
+      <workItem from="1594308332672" duration="617000" />
+      <workItem from="1594343730550" duration="2149000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
