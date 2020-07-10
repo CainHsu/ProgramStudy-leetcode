@@ -13,6 +13,10 @@ CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\2MergeSort\mergeSort.cp
 CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\2MergeSort\mergeSort.cpp.obj: ..\Algorithms\2Sorting\data.hpp
 CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\2MergeSort\mergeSort.cpp.obj: ..\Algorithms\2Sorting\tools.hpp
 
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\3QuickSort\quickSort.cpp.obj: ..\Algorithms\2Sorting\3QuickSort\quickSort.cpp
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\3QuickSort\quickSort.cpp.obj: ..\Algorithms\2Sorting\3QuickSort\quickSort.hpp
+CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\3QuickSort\quickSort.cpp.obj: ..\Algorithms\2Sorting\data.hpp
+
 CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj: ..\Algorithms\2Sorting\data.cpp
 CMakeFiles\ProgramStudy_leetcode.dir\Algorithms\2Sorting\data.cpp.obj: ..\Algorithms\2Sorting\data.hpp
 
