@@ -199,6 +199,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/200.Number of Islands.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/21.Merge Two Sorted Lists.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/226.Invert Binary Tree.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
@@ -212,6 +215,9 @@
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/34.Find First and Last Position of Element in Sorted Array.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/38.Count and Say.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/39.Combination Sum.hpp">
