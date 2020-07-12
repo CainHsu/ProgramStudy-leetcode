@@ -211,6 +211,12 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/242.Valid Anagram.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/268.Missing Number.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/287.Find the Duplicate Number.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/31.Next Permutation.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
@@ -227,6 +233,9 @@
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/404.Sum of Left Leaves.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/448.Find All Numbers Disappeared in an Array.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/48.Rotate Image.hpp">
