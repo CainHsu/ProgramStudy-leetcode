@@ -174,7 +174,7 @@
       <workItem from="1594283115819" duration="999000" />
       <workItem from="1594308332672" duration="617000" />
       <workItem from="1594343730550" duration="8542000" />
-      <workItem from="1594541639630" duration="3665000" />
+      <workItem from="1594541639630" duration="5891000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
@@ -321,11 +321,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591498413401" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1593241416317">
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1594563363603">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591366467993" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1591705520802" />
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1594563363603" />
     <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1593241416317" />
   </component>
 </project>
