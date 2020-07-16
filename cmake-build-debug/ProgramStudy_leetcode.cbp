@@ -172,6 +172,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/112.Path Sum.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/120.Triangle.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/129.Sum Root to Leaf Numbers.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
