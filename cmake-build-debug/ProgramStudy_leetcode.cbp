@@ -250,6 +250,12 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/513.Find Bottom Left Tree Value.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/53.Maximum Subarray.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/70.Climbing Stairs.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/739.Daily Temperatures.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
