@@ -175,6 +175,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/120.Triangle.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/121.Best Time to Buy and Sell Stock.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/129.Sum Root to Leaf Numbers.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
@@ -194,6 +197,9 @@
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/18.4Sum.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/198.House Robber.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/199.Binary Tree Right Side View.hpp">
