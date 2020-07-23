@@ -277,6 +277,12 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/872.Leaf-Similiar Trees.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/95.Unique Binary Search Trees II.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/96.Unique Binary Search Trees.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/main.cpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
