@@ -148,11 +148,6 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2){
 
 
 
-ListNode* swapPairs(ListNode* head) {
-    if(!head) return head;
-
-    return head;
-}
 
 
 
