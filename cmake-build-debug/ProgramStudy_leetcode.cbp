@@ -289,6 +289,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/872.Leaf-Similiar Trees.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/876.Middle of the Linked List.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/92.Reverse Linked List II.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
