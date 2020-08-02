@@ -46,39 +46,6 @@ ListNode *detectCycle(ListNode *head) {
     return fast;
 }
 
-
-ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-    if(!headA || !headB)
-        return NULL;
-    if(!headA->next || !headB->next)
-        return NULL;
-    if(headA == headB)
-        return headA;
-    ListNode* p1, *p2;
-    p1 = headA;
-    p2 = headB;
-    for(int i = 0; p1 != p2;){
-        if(p1)
-            int a = p1->val;
-        if(p2)
-            int b = p2->val;
-        if(!p1){
-            if(!i%2) p1 = headB;
-            else p1 = headA;
-            ++i;
-        }
-        if(!p2){
-            if(!i%2) p2 = headA;
-            else p2 = headB;
-            ++i;
-        }
-        p1 = p1->next;
-        p2 = p2->next;
-    }
-    return p1;
-}
-
-
 ListNode* removeElements(ListNode* head, int val) {
     if(!head) return NULL;
     if(!head->next){

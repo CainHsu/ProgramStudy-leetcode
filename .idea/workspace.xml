@@ -36,7 +36,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="Daily Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/DataStructure/ListNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/DataStructure/ListNode.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +185,7 @@
       <workItem from="1596214537685" duration="846000" />
       <workItem from="1596266934760" duration="10000" />
       <workItem from="1596356655462" duration="1017000" />
-      <workItem from="1596358027956" duration="786000" />
+      <workItem from="1596358027956" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
@@ -329,11 +331,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591498413401" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1596357575133">
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1596359120936">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591366467993" />
     <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1596214546189" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1596357575133" />
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1596359120936" />
   </component>
 </project>
