@@ -35,7 +35,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="Daily Update" />
+    <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="Daily Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +180,10 @@
       <workItem from="1595121464616" duration="2871000" />
       <workItem from="1595296896476" duration="2556000" />
       <workItem from="1595313388741" duration="22234000" />
-      <workItem from="1595751388050" duration="7056000" />
+      <workItem from="1595751388050" duration="8872000" />
+      <workItem from="1596214537685" duration="846000" />
+      <workItem from="1596266934760" duration="10000" />
+      <workItem from="1596356655462" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
@@ -307,27 +314,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1495" height="277" key="GridCell.Tab.1.right/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1594492033584" />
-    <state x="-63" y="142" width="1317" height="707" key="SettingsEditor" timestamp="1595756969629">
+    <state x="-63" y="142" width="1317" height="707" key="SettingsEditor" timestamp="1596266938706">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1370" y="49" width="1234" height="724" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587892221859" />
     <state x="75" y="47" width="1317" height="707" key="SettingsEditor/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1594145246932" />
-    <state x="-63" y="142" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595756969629" />
+    <state x="-63" y="142" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1596266938706" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1587891391998">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1008" y="271" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1587747915096" />
     <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1587891391998" />
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587578622589" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1591498413401">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591498413401" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1595582134676">
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1596214546189">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591366467993" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1595582134676" />
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1596214546189" />
     <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1595470806308" />
   </component>
 </project>
