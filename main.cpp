@@ -9,8 +9,7 @@
 #include "string"
 #include "SourceCode/person.hpp"
 #include "SourceCode/male.hpp"
-
-
+#include "sstream"
 
 #define PI 3.1415926
 
@@ -50,7 +49,7 @@ void count(int & N){
 
 int main(int argc, char **argv) {
 
-
+    stringstream ss("a");
     return 0;
 }
 

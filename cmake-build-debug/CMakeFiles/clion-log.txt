@@ -1,4 +1,4 @@
-C:\Users\xuche\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\codeProjects\ProgramStudy-leetcode
+"D:\Program Files\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\codeProjects\ProgramStudy-leetcode
 -- Configuring done
 -- Generating done
 -- Build files have been written to: D:/codeProjects/ProgramStudy-leetcode/cmake-build-debug

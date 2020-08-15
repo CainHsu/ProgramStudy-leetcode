@@ -76,4 +76,4 @@ add_executable(ProgramStudy_leetcode main.cpp
         "leetCode/24.Swap Nodes in Pairs.hpp"
         "leetCode/876.Middle of the Linked List.hpp"
         "leetCode/1290.Convert Binary Number in a Linked List to Integer.hpp"
-        "leetCode/160.Intersection of Two Linked Lists.hpp" "leetCode/917.Reverse Only Letters.hpp" "leetCode/1487.Making File Names Unique.hpp" "leetCode/468.Validate IP Address.hpp" "leetCode/58.Length of Last Word.hpp" "leetCode/557.Reverse Words in a String III.hpp" "leetCode/541.Reverse String II.hpp")
+        "leetCode/160.Intersection of Two Linked Lists.hpp" "leetCode/917.Reverse Only Letters.hpp" "leetCode/1487.Making File Names Unique.hpp" "leetCode/468.Validate IP Address.hpp" "leetCode/58.Length of Last Word.hpp" "leetCode/557.Reverse Words in a String III.hpp" "leetCode/541.Reverse String II.hpp" "leetCode/767.Reorganize String.hpp")
