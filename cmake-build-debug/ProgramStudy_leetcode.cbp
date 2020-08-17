@@ -127,6 +127,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/DataStructure/TreeNode.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/DataStructure/n-ary-tree.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/SourceCode/_male.cpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
@@ -290,6 +293,9 @@
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/557.Reverse Words in a String III.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/559.Maximum Depth of N-ary Tree.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/58.Length of Last Word.hpp">
