@@ -322,6 +322,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/767.Reorganize String.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/78.Subsets.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/872.Leaf-Similiar Trees.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
