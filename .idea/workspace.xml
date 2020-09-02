@@ -36,7 +36,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="Daily Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProblemsSolved/93.Restore-IP-Addresses.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemsSolved/93.Restore-IP-Addresses.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,15 +77,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\Algorithms\1Base" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\leetCode" />
       <recent name="D:\codeProjects\ProgramStudy-leetcode\SourceCode\DataStructure" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codeProjects\ProgramStudy-leetcode\ProblemsSolved\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -97,9 +99,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -211,7 +213,10 @@
       <workItem from="1597478865981" duration="2390000" />
       <workItem from="1597661324136" duration="1556000" />
       <workItem from="1597682798919" duration="69000" />
-      <workItem from="1597940863505" duration="764000" />
+      <workItem from="1597940863505" duration="1022000" />
+      <workItem from="1597993680151" duration="4000" />
+      <workItem from="1597995376980" duration="43000" />
+      <workItem from="1598950872190" duration="894000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
@@ -281,11 +286,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Daily Update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="456" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593334590687">
+    <state x="456" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598950936566">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="456" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1592187026470" />
-    <state x="456" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1593334590687" />
+    <state x="456" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1598950936566" />
     <state x="-877" y="143" width="544" height="613" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596911479776">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
