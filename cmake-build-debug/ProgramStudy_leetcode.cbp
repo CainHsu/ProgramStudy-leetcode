@@ -253,6 +253,9 @@
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/31.Next Permutation.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
+		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/322.零钱兑换.hpp">
+			<Option target="ProgramStudy_leetcode"/>
+		</Unit>
 		<Unit filename="D:/codeProjects/ProgramStudy-leetcode/leetCode/328.Odd Even Linked List.hpp">
 			<Option target="ProgramStudy_leetcode"/>
 		</Unit>
