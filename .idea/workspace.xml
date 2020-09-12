@@ -37,8 +37,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e698e498-3126-4611-9f04-7cbdc2c560d2" name="Default Changelist" comment="Daily Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgramStudy_leetcode.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgramStudy_leetcode.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,6 +220,9 @@
       <workItem from="1598950872190" duration="894000" />
       <workItem from="1599443779308" duration="840000" />
       <workItem from="1599448870344" duration="6210000" />
+      <workItem from="1599547580396" duration="2441000" />
+      <workItem from="1599613769373" duration="6479000" />
+      <workItem from="1599786767980" duration="20457000" />
     </task>
     <task id="LOCAL-00001" summary="Daily Update">
       <created>1593242929651</created>
@@ -304,30 +309,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1593326564641" />
-    <state width="1399" height="179" key="GridCell.Tab.0.bottom" timestamp="1597662880736">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1237" height="318" key="GridCell.Tab.0.bottom" timestamp="1599618728636">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1399" height="179" key="GridCell.Tab.0.bottom/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1597662880736" />
     <state width="1495" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1594492033584" />
     <state width="1495" height="170" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591855081109" />
-    <state width="1399" height="179" key="GridCell.Tab.0.center" timestamp="1597662880736">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1237" height="318" key="GridCell.Tab.0.bottom/3840.323.1536.864/0.0.2560.1440@0.0.2560.1440" timestamp="1599618728636" />
+    <state width="1237" height="318" key="GridCell.Tab.0.center" timestamp="1599618728636">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1399" height="179" key="GridCell.Tab.0.center/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1597662880736" />
     <state width="1495" height="277" key="GridCell.Tab.0.center/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1594492033584" />
     <state width="1495" height="170" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591855081109" />
-    <state width="1399" height="179" key="GridCell.Tab.0.left" timestamp="1597662880736">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1237" height="318" key="GridCell.Tab.0.center/3840.323.1536.864/0.0.2560.1440@0.0.2560.1440" timestamp="1599618728636" />
+    <state width="1237" height="318" key="GridCell.Tab.0.left" timestamp="1599618728635">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1399" height="179" key="GridCell.Tab.0.left/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1597662880736" />
     <state width="1495" height="277" key="GridCell.Tab.0.left/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1594492033584" />
     <state width="1495" height="170" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591855081109" />
-    <state width="1399" height="179" key="GridCell.Tab.0.right" timestamp="1597662880736">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state width="1237" height="318" key="GridCell.Tab.0.left/3840.323.1536.864/0.0.2560.1440@0.0.2560.1440" timestamp="1599618728635" />
+    <state width="1237" height="318" key="GridCell.Tab.0.right" timestamp="1599618728636">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1399" height="179" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1597662880736" />
     <state width="1495" height="277" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1594492033584" />
     <state width="1495" height="170" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591855081109" />
+    <state width="1237" height="318" key="GridCell.Tab.0.right/3840.323.1536.864/0.0.2560.1440@0.0.2560.1440" timestamp="1599618728636" />
     <state width="1495" height="277" key="GridCell.Tab.1.bottom" timestamp="1594492033584">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -354,11 +363,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591498413401" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1596359120936">
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup" timestamp="1599808427178">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="-1057" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@-1440.0.1440.900" timestamp="1591366467993" />
     <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1596214546189" />
-    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1596359120936" />
+    <state x="409" y="182" width="717" height="651" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1599808427178" />
   </component>
 </project>
